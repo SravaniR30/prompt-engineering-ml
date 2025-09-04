@@ -1,12 +1,12 @@
 # prompt-engineering-ml
  A curated collection of prompts to evaluate LLMs on advanced machine learning tasks.
-# 🧠 Prompt Engineering Playground for ML Scenarios
+# Prompt Engineering Playground for ML Scenarios
 
 Welcome to the **Prompt Engineering Playground**, a curated collection of domain-specific prompts designed to assess and refine Large Language Models' (LLMs) understanding of advanced Machine Learning (ML) concepts. This project is focused on evaluating how well LLMs perform in solving theoretical, applied, and research-level ML tasks through prompt design and response analysis.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Test LLM understanding of complex ML topics.
 - Evaluate model accuracy, reasoning depth, and hallucination rate.
@@ -15,9 +15,9 @@ Welcome to the **Prompt Engineering Playground**, a curated collection of domain
 
 ---
 
-## 🧪 Prompt Categories
+## Prompt Categories
 
-### 🔹 1. **Mathematical Derivation Prompts**
+### 1. **Mathematical Derivation Prompts**
 Evaluate whether LLMs can accurately walk through derivations for core ML techniques.
 
 **Examples:**
@@ -27,7 +27,7 @@ Evaluate whether LLMs can accurately walk through derivations for core ML techni
 
 ---
 
-### 🔹 2. **Real-World ML Scenario Prompts**
+### 2. **Real-World ML Scenario Prompts**
 Test model understanding in applied ML situations.
 
 **Examples:**
@@ -37,7 +37,7 @@ Test model understanding in applied ML situations.
 
 ---
 
-### 🔹 3. **Chain-of-Thought (CoT) Reasoning Prompts**
+### 3. **Chain-of-Thought (CoT) Reasoning Prompts**
 Encourage LLMs to “think aloud” through complex reasoning.
 
 **Examples:**
@@ -46,7 +46,7 @@ Encourage LLMs to “think aloud” through complex reasoning.
 
 ---
 
-## 📊 Evaluation Criteria
+## Evaluation Criteria
 
 Each LLM response is evaluated on:
 
@@ -59,7 +59,7 @@ Each LLM response is evaluated on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - OpenAI / Anthropic / HuggingFace APIs
@@ -68,12 +68,12 @@ Each LLM response is evaluated on:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 
 ---
 
-## ✅ How to Use
+## How to Use
 
 1. Clone the repo.
 2. Run `notebooks/run_prompts.ipynb` to test prompt outputs from various LLMs.
@@ -82,7 +82,7 @@ Each LLM response is evaluated on:
 
 ---
 
-## 🤝 Contribution Goals
+## Contribution Goals
 
 This project was created as part of a preparation for the **Handshake MOVE Program**, designed to showcase:
 - Prompt engineering skills  
@@ -91,7 +91,7 @@ This project was created as part of a preparation for the **Handshake MOVE Progr
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out via [LinkedIn](#) or [Email](#) if you'd like to collaborate or learn more.
 
